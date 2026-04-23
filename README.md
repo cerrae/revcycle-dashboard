@@ -2,7 +2,7 @@
 
 > A data-driven KPI dashboard for accounts receivable analysis, claim denial management, and payer performance tracking — built from real revenue cycle optimization work at Harlow Dental.
 
-**[🚀 Live Demo](https://yourusername.github.io/revcycle-dashboard)** &nbsp;|&nbsp; Built by [Sun Cerrae Quinones](https://linkedin.com/in/suncerrae)
+**[🚀 Live Demo](https://cerrae.github.io/revcycle-dashboard/)** &nbsp;|&nbsp; Built by [Sun Cerrae Quinones](https://linkedin.com/in/suncerrae)
 
 ---
 
@@ -70,13 +70,13 @@ RevCycle replicates the reporting layer I built to give leadership real-time vis
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/revcycle-dashboard.git
+git clone [https://github.com/cerrae/revcycle-dashboard.git]
 
 # Open in browser — no install needed
 open index.html
 ```
 
-Or visit the **[live demo](https://yourusername.github.io/revcycle-dashboard)**.
+Or visit the **[live demo](https://cerrae.github.io/revcycle-dashboard)**.
 
 ---
 
@@ -86,4 +86,4 @@ Built by **Sun Cerrae Quinones** — Digital Project Coordinator with 8+ years o
 
 - 📧 suncquinones@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/suncerrae)
-- 🗂 [Full Portfolio](https://github.com/yourusername)
+- 🗂 [Full Portfolio](https://github.com/cerrae)
